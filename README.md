@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Blesson Sam</h1>
 <h3 align="center">a passionate Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js) 🚀. I enjoy building dynamic and responsive web applications with React 💻. My programming skills extend to C++, Java, and JavaScript, allowing me to tackle a variety of projects efficiently. Coding is not just a profession for me; it's a joy and a journey of continuous learning and growth 🌟. Check out my projects and feel free to connect with me. Let's create something amazing together! 🌐✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blesson-sam&label=Profile%20views&color=0e75b6&style=flat" alt="blesson-sam" /> </p>
-
 - 🔭 I’m currently working on [Student Academic Management System (SAMS)](https://github.com/Blesson-Sam/SAMS)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Blesson-Sam](https://github.com/Blesson-Sam)
