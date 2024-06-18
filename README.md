@@ -12,10 +12,10 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fyEe762_9ZLs2JhrSBf2YDHWn5_UvQuz/view?usp=sharing](https://drive.google.com/file/d/1fyEe762_9ZLs2JhrSBf2YDHWn5_UvQuz/view?usp=sharing)
 
 <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=blesson-sam&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+  <img height=150 align="center" src="https://my-stats-43gk.vercel.app/api?username=blesson-sam&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=100" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=blesson-sam&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+  <img height=150 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=blesson-sam&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=100" />
 </a>
 
 <a href=#><img src="contributions.svg"></a>
